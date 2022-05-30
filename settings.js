@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.owner = ['9647717555198']
+global.premium = ['9647717555198']
+global.ownernomer = '9647717555198'
+global.ownername = 'AĦMED ALHUJAJ'
+global.botname = 'Potato'
+global.footer = 'AĦMED ALHUJAJ©.'
+global.ig = 'https://instagram.com/lhjj_56?igshid=YmMyMTA2M2Y='
+global.region = 'Iraq, Basrah'
+global.sc = 'https://instagram.com/lhjj_56?igshid=YmMyMTA2M2Y='
+global.myweb = 'https://discord.gg/pbnPKqVsxv'
+global.packname = 'Potato'
+global.author = 'AĦMED ALHUJAJ'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -48,7 +48,7 @@ global.mess = {
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
+    free: "Infinity",
     monayawal: 1000
 }
    global.rpg = {
