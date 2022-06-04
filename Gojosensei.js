@@ -1459,7 +1459,6 @@ case 'halah': case 'hilih': case 'huluh': case 'heleh': case 'holoh':
                 if (!m.isGroup) return replay(`${mess.group}`)
                 if (!isBotAdmins) return replay(`${mess.botAdmin}`)
                 if (!isAdmins) return replay(`${mess.admin}`)
-                if (!isCreator) return replay(`${mess.owner}`)
 let teks = `╚»˙·٠•●♥ Tag All ♥●•٠·˙«╝ 
  
  ➲ *Message : ${q ? q : 'no message'}*\n\n`
